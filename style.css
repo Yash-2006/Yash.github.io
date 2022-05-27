@@ -1,0 +1,57 @@
+#large_message
+{
+    font-size:90px;
+    color: rgb(0, 255, 13);
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.sub_text
+{
+    font-size:45px;
+    color: rgb(0, 255, 13);
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.citation
+{
+    font-size:7px;
+    color: rgb(0, 255, 13);
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+
+}
+
+.image
+{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border: 15px ridge limegreen;
+}
+
+table 
+{
+    margin-left:auto;
+    margin-right:auto;
+    border: 15px ridge limegreen;    
+}
+
+th 
+{
+    border: 5px ridge limegreen;    
+}
+
+td 
+{
+    border: 5px ridge limegreen;    
+}
+
+tr 
+{
+    font-size:14px;
+    color: rgb(0, 255, 13);
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
